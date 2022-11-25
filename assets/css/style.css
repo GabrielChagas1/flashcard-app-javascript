@@ -22,3 +22,9 @@ body{
     padding: 1.2em 1em;
 }
 
+button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
