@@ -44,6 +44,7 @@ cardButton.addEventListener('click',
     }
 }));
 
+// Card Generate
 function viewList(){
     var listCard = document.getElementsByClassName('card-list-container');
     let div = document.createElement('div');
@@ -108,3 +109,10 @@ const modifyElement = (element, edit=false) => {
     parentDiv.remove();
 }
 
+//Disable edit and delete buttons
+const disableButtons = (value) => {
+    let editButtons = document.getElementsByClassName('edit')
+    Array.from(editButtons).forEach((element) => {
+        element.disabled = value;
+    })
+}
