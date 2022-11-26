@@ -36,3 +36,8 @@ button{
     font-weight: 500;
     border-radius: .4em;
 }
+
+#card-con{
+    margin: 1em 0;
+}
+
