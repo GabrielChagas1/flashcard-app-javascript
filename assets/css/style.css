@@ -75,3 +75,8 @@ button{
     align-self: center;
 }
 
+#error{
+    color: #ff5353;
+    font-weight: 400;
+}
+
