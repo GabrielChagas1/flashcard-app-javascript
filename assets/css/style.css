@@ -102,3 +102,13 @@ label{
     margin-bottom: .3em;
 }
 
+textarea{
+    width: 100%;
+    padding: .7em .5em;
+    border: 1px solid #d0d0d0;
+    outline: none;
+    color: #414a67;
+    border-radius: .3em;
+    resize: none;
+}
+
