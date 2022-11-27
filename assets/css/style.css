@@ -71,3 +71,7 @@ button{
     gap: 1em;
     margin-bottom: 1em;
 }
+.error-con{
+    align-self: center;
+}
+
