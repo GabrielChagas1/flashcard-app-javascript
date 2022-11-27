@@ -65,3 +65,9 @@ button{
     margin-bottom: 2em;
 }
 
+.wrapper{
+    display: grid;
+    grid-template-columns: 11fr 1fr;
+    gap: 1em;
+    margin-bottom: 1em;
+}
