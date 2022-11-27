@@ -120,3 +120,11 @@ textarea:focus{
     border-color: #363d55;
 }
 
+#save-btn{
+    font-size: 1em;
+    background-color: #587ef4;
+    color: #fff;
+    padding: .6em 0;
+    border-radius: .3em;
+    font-weight: 600;
+}
