@@ -128,3 +128,11 @@ textarea:focus{
     border-radius: .3em;
     font-weight: 600;
 }
+
+.card-list-container{
+   display: grid;
+   padding: .2em;
+   gap: 1.5em;
+   grid-template-columns: 1fr 1fr 1fr;
+}
+
