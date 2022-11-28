@@ -136,3 +136,9 @@ textarea:focus{
    grid-template-columns: 1fr 1fr 1fr;
 }
 
+.card{
+    background: #fff;
+    box-shadow: 0 .4em 1.2em rgba(28, 0, 80, .08);
+    padding: 1.2em;
+    border-radius: .4em;
+}
