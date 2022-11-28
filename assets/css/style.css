@@ -154,3 +154,9 @@ textarea:focus{
     color: #363d55;
 }
 
+.answer-div{
+    margin: 1em;
+    font-weight: 400;
+    color: #414a67;
+}
+
