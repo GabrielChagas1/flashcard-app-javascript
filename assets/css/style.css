@@ -148,3 +148,9 @@ textarea:focus{
     text-align: justify;
 }
 
+.question-div{
+    margin-bottom: .5em;
+    font-weight: 500;
+    color: #363d55;
+}
+
