@@ -142,3 +142,9 @@ textarea:focus{
     padding: 1.2em;
     border-radius: .4em;
 }
+
+.question-div, 
+.answer-div{
+    text-align: justify;
+}
+
