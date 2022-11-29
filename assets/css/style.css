@@ -175,3 +175,10 @@ textarea:focus{
     justify-content: flex-end;
 }
 
+.edit,
+.delete{
+    background: transparent;
+    padding: .5em;
+    font-size: 1.2em;
+}
+
