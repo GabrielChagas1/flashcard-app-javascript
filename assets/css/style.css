@@ -190,3 +190,7 @@ textarea:focus{
     color: #ff5353;
 }
 
+.hide{
+    display: none;
+}
+
