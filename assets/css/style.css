@@ -170,3 +170,8 @@ textarea:focus{
     border-radius: .3em;
 }
 
+.buttons-con{
+    display: flex;
+    justify-content: flex-end;
+}
+
