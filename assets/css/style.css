@@ -160,3 +160,13 @@ textarea:focus{
     color: #414a67;
 }
 
+.show-hide-btn{
+    display: block;
+    background: #587ef4;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    padding: .6em 0;
+    border-radius: .3em;
+}
+
