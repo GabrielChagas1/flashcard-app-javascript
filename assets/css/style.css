@@ -194,3 +194,9 @@ textarea:focus{
     display: none;
 }
 
+@media screen and (max-width: 800px){
+    .card-list-container{
+        grid-template-columns: 1fr 1fr;
+        gap: .5em;
+    }
+}
