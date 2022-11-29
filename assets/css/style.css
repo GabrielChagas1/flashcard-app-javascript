@@ -200,3 +200,13 @@ textarea:focus{
         gap: .5em;
     }
 }
+
+@media screen and (max-width: 450px){
+    body{
+        font-size: 14px;
+    }
+    .card-list-container{
+        grid-template-columns: 1fr;
+        gap: 1.2em;
+    }
+}
